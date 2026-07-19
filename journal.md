@@ -36,3 +36,17 @@ After a one month break, I came back to this project. I was focused on other pro
 
 <img width="712" height="637" alt="Screenshot 2026-07-16 190511" src="https://github.com/user-attachments/assets/e652d36d-fcef-4a14-bb60-375a3dcd03e3" />
 
+# July 19th : finishing the assembly
+
+today I finished working on my assembly as I added M3 screws and bolts to the the fixing parts. I initially put them all with the same length (12mm) but then I realised that the upper screws were colliding so I spaced them a little bit and decreased their length to 10mm.
+
+<img width="411" height="336" alt="Screenshot 2026-07-19 023308" src="https://github.com/user-attachments/assets/1baab104-8b45-48fe-bd51-e99f4c81c56e" />
+
+when I added the bolts, I also find an other mistake. the bolts were colliding with the part itself so it is impossible to assemble them in real life. so i added some space to make them rotate freely.
+
+<img width="763" height="553" alt="Screenshot 2026-07-19 023241" src="https://github.com/user-attachments/assets/8f702399-c2a7-4008-9e04-f94426a88fc2" />
+
+then I started working on the electronics. I used 3 60mm*40mm parametric prototype pcb plates and inserted my components. solidworks crashed and i didnt save my progress so i had to do it twice. Then I assembled everything and made openings for the USB ports. 
+
+<img width="767" height="717" alt="Screenshot 2026-07-19 044041" src="https://github.com/user-attachments/assets/52343fdc-7322-442f-bb87-8d5978b2155d" />
+<img width="618" height="547" alt="Screenshot 2026-07-19 023641" src="https://github.com/user-attachments/assets/3192a136-bb99-4a54-b6fb-89323dd66259" />
