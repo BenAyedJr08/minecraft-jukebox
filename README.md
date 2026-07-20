@@ -33,4 +33,4 @@ Then you can add the rest of the parts and finish with the top part with the pus
 
 # Important
 
-Initially, the assembly had all the components including the electronics and how they are assembled, but the file was exceeding the limit and couldn't be uploaded to github so I removed them from the assembly.
+Initially, the assembly had all the components including the electronics and how they are assembled, but the file was exceeding the limit and couldn't be uploaded to github so I removed them.
