@@ -53,6 +53,6 @@ then I started working on the electronics. I used 3 60mm*40mm parametric prototy
 
 # July 20th : finishing the project
 
-The last thing to work on was the firmware. So I searched for the MAX98357A and the micro SD adapter module on github to get the librairies and some examples. I tried to understand the code so I can make changes to the main code that I generated with AI later. I couldn't make the code myself so I didn't record the process I just got the code from claude with the librairies needed (DFRobot_MAX98357A.h and SD.h) and applied some changes like removing the unnecassary features like led animation and focused more on trying to understand it and committed it to github.
+The last thing to work on was the firmware. So I searched for the MAX98357A and the micro SD adapter module on github to get the librairies and some examples. I tried to understand the code so I can make changes to the main code that I generated with AI later. I couldn't make the code myself so I didn't record the process I just got the code from claude with the librairies needed (DFRobot_MAX98357A.h and SD.h) and applied some changes like removing the unnecassary features like led animation, corrected a mistake that ai made which was assuming the number of songs I will load in the SD card and working with this information and focused more on trying to understand it and committed it to github.
 
 <img width="867" height="833" alt="image" src="https://github.com/user-attachments/assets/10ee00c7-d44e-4d56-affb-160a8d0cbb1a" />
