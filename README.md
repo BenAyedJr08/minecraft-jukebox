@@ -30,3 +30,7 @@ You have to start with the bottom part, then connect the two parts that will hol
 Then you can add the rest of the parts and finish with the top part with the push buttons and the potentiometer fixed beforehand. And there you go ! here is your minecraft jukebox !
 
 <img width="560" height="462" alt="image" src="https://github.com/user-attachments/assets/d723137d-a1d5-4cf6-ae30-12b351c838c3" />
+
+# Important
+
+Initially, the assembly had all the components including the electronics and how they are assembled, but the file was exceeding the limit and couldn't be uploaded to github so I removed them from the assembly.
