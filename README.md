@@ -17,6 +17,7 @@ The edges are designed in a puzzle-like shape so they can be easily assembled, e
 <img width="386" height="462" alt="image" src="https://github.com/user-attachments/assets/38f0bacf-df49-44f0-a146-8c0fcf5b2167" />
 
 for the circuit, it divides into two main sections : the power supply and the actual part that will read the songs and convert them to the speaker. So there is a USB-c sink so it can be directly alimented from the pc. the RGB LEDs are directly connected to the sink as they require 5V that can be directly pulled. The issue comes next as the micro SD adapter needs 3.3V instead of 5V, so I used an AMS1117-3.3V Module to convert the voltage. the we have the SD card slot and the adapter connected to our microcontroller (esp32 DevKit v1) connected to the amplifier MAX98357A and finally the speaker
+
 here is the link to the circuit diagram : https://app.cirkitdesigner.com/project/ff61a1b3-abc5-473c-aff6-b312430bfb54
 
 <img width="1177" height="702" alt="Screenshot 2026-07-20 122112" src="https://github.com/user-attachments/assets/9881793a-e9fd-475b-9560-a21caa1338bb" />
