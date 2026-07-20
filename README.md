@@ -1,6 +1,6 @@
 # minecraft-jukebox
 
-As a minecraft player, I thought it would be cool to build a jukebox irl and load it with minecraft songs. So I wanted to create something cool and shiny so I decided to add RGB LEDs to my project.
+As a minecraft player, I thought it would be cool to design a jukebox irl and load it with minecraft songs. So I wanted to create something cool and shiny so I decided to add RGB LEDs to my project.
 
 <img width="842" height="747" alt="image" src="https://github.com/user-attachments/assets/1e37e115-fd88-4cf6-81e5-84edbb356441" />
 
